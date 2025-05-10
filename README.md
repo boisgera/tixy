@@ -1,8 +1,6 @@
 # tixy.zig
 
-Zig port of [tixy.land] with [raylib].
-
-Start with:
+Zig port of [tixy.land] with [raylib]. Start with:
 
 ```
 zig build run
